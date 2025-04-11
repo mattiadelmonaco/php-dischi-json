@@ -1,9 +1,7 @@
 <?php
 
-require_once "./server.php";
-
-// var_dump($disks);
-
+$disksText = file_get_contents("./disks.json");
+$disks = json_decode($disksText, true);
 
 ?>
 
@@ -48,7 +46,7 @@ require_once "./server.php";
         <!-- form aggiunta disco -->
          <section class="container w-75">
             <h2 class="text-white">Aggiungi un disco</h2>
-            <form class="form-control d-flex flex-column align-items-center">
+            <form action="server.php" method="POST" class="form-control d-flex flex-column align-items-center">
                 <div class="row mt-3">
                     <div class="col mb-3 d-flex flex-column">
                         <label for="title">Titolo disco</label>
