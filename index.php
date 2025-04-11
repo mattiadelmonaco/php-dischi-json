@@ -50,26 +50,26 @@ $disks = json_decode($disksText, true);
                 <div class="row mt-3">
                     <div class="col mb-3 d-flex flex-column">
                         <label for="title">Titolo disco</label>
-                        <input id="title" name="title" type="text">
+                        <input id="title" name="title" type="text" required>
                     </div>
 
                     <div class="col mb-3 d-flex flex-column">
                         <label for="artist">Artista</label>
-                        <input id="artist" name="artist" type="text">
+                        <input id="artist" name="artist" type="text" required>
                     </div>
 
                     <div class="col mb-3 d-flex flex-column">
                         <label for="url">URL della cover</label>
-                        <input id="url" name="url" type="text">
+                        <input id="url" name="url" type="text" required>
                     </div>
                     <div class="col mb-3 d-flex flex-column">
                         <label for="year">Anno di pubblicazione</label>
-                        <input id="year" name="year" type="number" min="1000" max="9999" value="2025">
+                        <input id="year" name="year" type="number" min="1000" max="9999" value="2025" required>
                     </div>
 
                     <div class="col mb-3 d-flex flex-column">
                         <label for="genre">Genere</label>
-                        <input id="genre" name="genre" type="text">
+                        <input id="genre" name="genre" type="text" required>
                     </div>
                 </div>
 
