@@ -1,0 +1,72 @@
+[
+  {
+    "titolo": "The Dark Side of the Moon",
+    "artista": "Pink Floyd",
+    "url": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png",
+    "anno": 1973,
+    "genere": "Progressive Rock"
+  },
+  {
+    "titolo": "Thriller",
+    "artista": "Michael Jackson",
+    "url": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
+    "anno": 1982,
+    "genere": "Pop"
+  },
+  {
+    "titolo": "Back in Black",
+    "artista": "AC/DC",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Back_in_Black_ACDC.png",
+    "anno": 1980,
+    "genere": "Hard Rock"
+  },
+  {
+    "titolo": "Rumours",
+    "artista": "Fleetwood Mac",
+    "url": "https://upload.wikimedia.org/wikipedia/en/f/fb/FMacRumours.PNG",
+    "anno": 1977,
+    "genere": "Rock"
+  },
+  {
+    "titolo": "Abbey Road",
+    "artista": "The Beatles",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg",
+    "anno": 1969,
+    "genere": "Rock"
+  },
+  {
+    "titolo": "Nevermind",
+    "artista": "Nirvana",
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg",
+    "anno": 1991,
+    "genere": "Grunge"
+  },
+  {
+    "titolo": "Born to Run",
+    "artista": "Bruce Springsteen",
+    "url": "https://upload.wikimedia.org/wikipedia/en/0/0c/Born_to_Run_(Front_Cover).jpg",
+    "anno": 1975,
+    "genere": "Rock"
+  },
+  {
+    "titolo": "21",
+    "artista": "Adele",
+    "url": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png",
+    "anno": 2011,
+    "genere": "Soul/Pop"
+  },
+  {
+    "titolo": "OK Computer",
+    "artista": "Radiohead",
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/a1/Radiohead.okcomputer.albumart.jpg",
+    "anno": 1997,
+    "genere": "Alternative Rock"
+  },
+  {
+    "titolo": "To Pimp a Butterfly",
+    "artista": "Kendrick Lamar",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/9e/To_Pimp_a_Butterfly_cover.png",
+    "anno": 2015,
+    "genere": "Hip Hop"
+  }
+]
